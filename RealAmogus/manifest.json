@@ -1,6 +1,6 @@
 {
 	"name": "RealAmogus",
-	"version_number": "1.2.0",
+	"version_number": "1.3.0",
 	"description": "A modpack that makes your amogus real.",
 	"website_url": "https://github.com/trevorswan11/LCModpacks/tree/main/RealAmogus",
 	"dependencies": [
@@ -22,6 +22,7 @@
 		"sunnobunno-YippeeMod-1.2.4",
 		"Zehs-SellMyScrap-1.10.0",
 		"matsuura-HealthMetrics-1.0.2",
-		"5Bit-VoiceHUD-1.0.4"
+		"5Bit-VoiceHUD-1.0.4",
+		"Zehs-RemoveInteriorFog-1.0.2"
 	]
 }
