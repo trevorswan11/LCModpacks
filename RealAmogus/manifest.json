@@ -1,6 +1,6 @@
 {
 	"name": "RealAmogus",
-	"version_number": "1.3.0",
+	"version_number": "1.3.1",
 	"description": "A modpack that makes your amogus real.",
 	"website_url": "https://github.com/trevorswan11/LCModpacks/tree/main/RealAmogus",
 	"dependencies": [
@@ -13,7 +13,7 @@
 		"Vulf-GokuBracken-1.5.9",
 		"TopraksuK-FreeBirdTotemRemixJester-1.0.1",
 		"taffyko-NiceChat-1.2.7",
-		"KyoshiYoshi-RemoveTheAnnoying-1.3.0",
+		"KyoshiYoshi-RemoveTheAnnoying-1.3.2",
 		"Evaisa-FixPluginTypesSerialization-1.1.1",
 		"Evaisa-HookGenPatcher-0.0.5",
 		"Sigurd-CSync-5.0.1",
